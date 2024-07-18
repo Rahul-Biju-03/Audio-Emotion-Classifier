@@ -16,21 +16,21 @@ Sentences obtained from IViE Corpus are:
 - C1- Are you growing limes or lemons?
 - C2- Is his name Miller or Mailer?
 - C3- Did you say mellow or yellow?
-- C4- Do you live in eeling or reading?
+- C4- Do you live in ealing or reading?
 - C5- Did he say lino or lilo?
 
 ### Inversion Questions
 - I1- May I lean on the railings?
 - I2- May I leave the meal early?
-- I3- Will you live in eeling?
+- I3- Will you live in ealing?
 
 ### Questions without morphosyntactic markers
-- M1- He is on the Leelo?
+- M1- He is on the Lilo?
 - M2- You remembered the lilies?
-- M3- You live in eeling?
+- M3- You live in ealing?
 
 ### Simple Sentences
-- S1- We live in eeling.
+- S1- We live in ealing.
 - S2- You remembered the lilies.
 - S3- We arrived in a limo.
 - S4- They are on the railings.
@@ -41,6 +41,6 @@ Sentences obtained from IViE Corpus are:
 
 ### WH Questions
 - W1- Where is the manual?
-- W2- When will you be in neeling?
+- W2- When will you be in ealing?
 - W3- Why are we in a limo?
 
