@@ -44,7 +44,7 @@ Sentences obtained from IViE Corpus are:
 - W2- When will you be in ealing?
 - W3- Why are we in a limo?
 
-## Excel Sheet
+## English Excel Sheet
 
 ### Dataset
 - Contains Audio_ID, Emphasized word and comments.
@@ -112,3 +112,8 @@ e in "remembered",
 e in "remembered",
 i in "lilies",
 i in "lilies",
+
+## Malayalam Dataset
+
+### Simple Sentences
+- S1- ഞങ്ങൾ ഈലിങ്ങിൽ ആണ് താമസിക്കുന്നത്
