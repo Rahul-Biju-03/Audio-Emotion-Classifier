@@ -187,3 +187,15 @@ i in "lilies",
 - I3
   - ningal ilingil thaamasikkumo?
   - നിങ്ങൾ ഇലിങ്ങിൽ താമസിക്കുമോ?
+
+- M1
+  - avan lilooyil aano?
+  - അവൻ ലിലോയിൽ ആണോ?
+    
+- M2
+   - ningal lili pookkale ortho?
+   - നിങ്ങൾ ലിലി പൂക്കളെ ഓർത്തോ?
+ 
+- M3
+   - ningal ilingil aano thaamasikkunnathu?
+   - നിങ്ങൾ ഇലിങ്ങിൽ ആണോ താമസിക്കുന്നത്?
