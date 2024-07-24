@@ -117,3 +117,73 @@ i in "lilies",
 
 ### Simple Sentences
 - S1- ഞങ്ങൾ ഈലിങ്ങിൽ ആണ് താമസിക്കുന്നത്
+- S2
+    - nee lily pookale orthu
+    - നി ലില്ലി  പൂക്കളെ ഓർത്തു
+
+- S3
+   - njangal oru motor vahanathil aanu ethiyathu
+   - ഞങ്ങൾ ഒരു മോട്ടോർ വാഹനത്തിൽ ആണ് എത്തിയത്
+
+- S4
+   - avar Irumbvazhil aanu nilkunathu
+   - അവര്‍ ഇരുമ്പുവഴിയില്‍ ആണ് നില്‍ക്കുന്നത്.
+
+- S5
+   - njangal manja vastram aanu darichirikunathu
+   - ഞങ്ങൾ മഞ്ഞ വസ്ത്രം ആണ് ധരിച്ചിരിക്കുന്നത്.
+
+- S6
+   - avan lilo il aanu
+   - അവൻ ലിലോ ഇൽ ആണ്.
+
+- S7
+
+
+- S8
+   - njangal kallam parayukayirunnu
+   - ഞങ്ങൾ കള്ളം പറയുകയിരുന്നു
+
+- W1
+  - lakhugandham evideyaanu?
+  - ലഘുഗന്ഥം എവിടെയാണ്?
+
+- W2
+  - ningal appol ilingil aayirikkum?
+  - നിങ്ങൾ എപ്പോൾ ഇലിങ്ങിൽ ആയിരിക്കും?
+
+- W3
+  - enthukondaanu nammal mottor vaahanathil ullathu?
+  - എന്തുകൊണ്ടാണ് നമ്മൾ മോട്ടോർ വാഹനത്തിൽ ഉള്ളത്?
+
+- C1
+  - ningal cheriya naaranga allengil valiya naaranga valarthunnundo?
+  - നിങ്ങൾ ചെറിയ നാരങ്ങ അല്ലെങ്കിൽ വലിയ നാരങ്ങ വളർത്തുന്നുണ്ടോ?
+
+- C2
+  - vante peru millar aalengil mailar ennu aano?
+  - അവന്റെ പേര് മില്ലർ ആലെങ്കിൽ മെയ്ലർ എന്നു ആണോ?
+
+- C3
+   - ningal maranja aalengil manja ennu aano paranjathu?
+   - നിങ്ങൾ മറഞ്ഞ ആലെങ്കിൽ മഞ്ഞ എന്ന് ആണോ പറഞ്ഞത്?
+
+- C4
+  - ningal ilingilo redingilo aano thaamasikkunnathu?
+  - നിങ്ങൾ ഇലിങ്ങിലോ റീഡിങ്ങിലോ ആണോ താമസിക്കുന്നത്?
+
+- C5
+  - avan lilo allengil lino ennu aano paranjathu?
+  - അവൻ ലിലോ അല്ലെങ്കിൽ ലിനോ എന്ന് ആണോ പറഞ്ഞത്?
+
+- I1
+  - njaan irumbuvazhiyil chaari nilkkede?
+  - ഞാൻ ഇരുമ്പുവഴിയിൽ ചാരി നിൽക്കേടെ?
+
+- I2
+  - njangal nerathe bhakshanam kazhichittu pokotte?
+  - ഞങ്ങൾ നേരത്തെ ഭക്ഷണം കഴിച്ചിട്ട് പോകോട്ടെ?
+
+- I3
+  - ningal ilingil thaamasikkumo?
+  - നിങ്ങൾ ഇലിങ്ങിൽ താമസിക്കുമോ?
