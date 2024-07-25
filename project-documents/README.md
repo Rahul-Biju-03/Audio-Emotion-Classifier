@@ -138,7 +138,8 @@ i in "lilies",
    - അവൻ ലിലോ ഇൽ ആണ്.
 
 - S7
-
+  - ninakku semyata thonnunnu
+  - നിനക്കു സൌമ്യത തോന്നുന്നു
 
 - S8
    - njangal kallam parayukayirunnu
