@@ -1,0 +1,139 @@
+S1
+
+"ഞങ്ങൾ" - "We"
+"ഈലിങ്ങിൽ" - "in Ealing"
+"ആണ്"-  (NO WORD- PART OF "live")
+"താമസിക്കുന്നത്" - "live"
+
+S2
+
+"ഞങ്ങൾ" - "We"
+"ഒരു" - "a"
+"മോട്ടോർ വാഹനത്തിൽ" - "in limo" 
+"ആണ്" -(NO WORD part of "arrived" )
+"എത്തിയത്"  - "arrived"
+
+S3
+
+"ഞങ്ങൾ" - "We"
+"ഒരു" - "a"
+"മോട്ടോർ വാഹനത്തിൽ" - "in limo"
+"ആണ്"  - (NO WORD part of "arrived" )
+"എത്തിയത്" - "arrived"
+
+S4
+
+"They" - "അവര്‍" 
+"are" - "ആണ്" 
+"on" - "-ഇല്‍"
+"the" - no direct equivalent
+"railings" - "ഇരുമ്പുവഴി" 
+
+S5
+"ഞങ്ങൾ" - "We"
+"മഞ്ഞ" - "yellow"
+"വസ്ത്രം" - not directly translated
+"ആണ്" - "were" 
+"ധരിച്ചിരിക്കുന്നത്"  - not directly translated
+
+S6
+"അവൻ" - "He"
+"ലിലോയിൽ" - "on the lilo"
+"ആണ്" - "is"
+
+S7
+"You" - "നിനക്കു" 
+"are feeling" - "തോന്നുന്നു" 
+"mellow" - "സൌമ്യത" 
+
+S8
+"ഞങ്ങൾ"  - "We"
+"കള്ളം"  - "lying" 
+"പറയുകയിരുന്നു"  - "were lying" (more precisely, "were saying")
+
+"W1.wav":
+"ലഘുഗന്ഥം" - "manual"
+"എവിടെയാണ്?"  - "Where is?"
+
+"W2.wav":
+"നിങ്ങൾ"  - "you"
+"എപ്പോൾ"  - "When"
+"ഈലിങ്ങിൽ"  - "in ealing"
+"ആയിരിക്കും?"  - "will be"
+
+"W3.wav":
+"എന്തുകൊണ്ടാണ്"  - "Why"
+"നമ്മൾ" - "we"
+"മോട്ടോർ വാഹനത്തിൽ"  - "in a limo" (more literally, "in a motor vehicle")
+"ഉള്ളത്?" - "are"
+
+"C1.wav":
+"നിങ്ങൾ" - "you"
+"ചെറിയ നാരങ്ങ"  - "limes"
+"വലിയ നാരങ്ങ"  - "lemons"
+"വളർത്തുന്നുണ്ടോ?"  - "Are growing"
+
+Problem: Sometimes only 'ചെറിയ' is emphasised, do i still give the score to 'limes'
+
+"C2.wav":
+"അവന്റെ"  - "his"
+"പേര്"  - "name"
+"മില്ലർ"  - "Miller"
+"ആലെങ്കിൽ" - "or"
+"മെയ്ലർ"  - "Mailer"
+"എന്നാണോ?"  - "Is?"
+
+"C3.wav":
+"നിങ്ങൾ"  - "you"
+"മറഞ്ഞ"  - "mellow" 
+"ആലെങ്കിൽ"  - "or"
+"മഞ്ഞ"  - "yellow"
+"എന്നാണോ പറഞ്ഞത്?"  - "Did say?"
+
+"C4.wav":
+"നിങ്ങൾ"  - "you"
+"ഇലിങ്ങിലോ"  - "in ealing"
+"റീഡിങ്ങിലോ"  - "in reading"
+"ആണോ" (āṇō) - "Do"
+"താമസിക്കുന്നത്?" (tāmasikkunnatu?) - "live"
+
+"C5.wav":
+"അവൻ" (avan) - "he"
+"ലിനോ" (linō) - "lino"
+"അല്ലെങ്കിൽ" (alleṅkil) - "or"
+"ലിലോ" (lilō) - "lilo"
+"എന്നാണോ പറഞ്ഞത്?" (ennāṇō paṟaññatŭ?) - "Did say?"
+
+"I1.wav":
+"ഞാൻ" (ñān) - "I"
+"ഇരുമ്പുവഴിയിൽ" (irumpuvazhiyil) - "on the railings"
+"ചാരിനിൽക്കേടെ?" (cārinilkkēṭe?) - "May lean?"
+
+"I2.wav":
+"ഞാൻ" (ñān) - "I"
+"നേരത്തെ" (nēratte) - "early"
+"ഭക്ഷണം" (bhakṣaṇaṁ) - "meal"
+"കഴിച്ചിട്ട്" (kazhiccittu) - "after eating"
+"പോകോട്ടെ?" (pōkōṭṭe?) - "May leave?"
+
+"I3.wav":
+"നിങ്ങൾ" (niṅṅaḷ) - "you"
+"ഈലിങ്ങിൽ" (īliṅṅil) - "in ealing"
+"താമസിക്കുമോ?" (tāmasikkumō?) - "Will live?"
+
+"M1.wav":
+"അവൻ" (avan) - "He"
+"ലിലോയിൽ" (lilōyil) - "on the Lilo"
+"ആണോ?" (āṇō?) - "is?"
+
+"M2.wav":
+"നിങ്ങൾ" (niṅṅaḷ) - "You"
+"ലിലി" (lili) - "lilies"
+"പൂക്കളെ" (pūkkaḷe) - "flowers" (not directly translated in English)
+"ഓർത്തോ?" (ōrttō?) - "remembered?"
+
+"M3.wav":
+"നിങ്ങൾ" (niṅṅaḷ) - "You"
+"ഈലിങ്ങിൽ" (īliṅṅil) - "in ealing"
+"ആണോ" (āṇō) - auxiliary verb, not directly translated
+"താമസിക്കുന്നത്?" (tāmasikkunnatu?) - "live?"
